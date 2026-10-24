@@ -1,0 +1,100 @@
+[
+  [
+    "E1",
+    "사람 임상 체계적 고찰",
+    "Costello MC et al. Clinical applications of electrical stimulation for peripheral nerve injury: a systematic review. Front Neurosci. 2023;17:1162851.",
+    "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1162851/full",
+    "전문 확인. 2022년 8월까지 검색, 7연구·229명·RCT 6개. 상지·쇄골위 중심. 질환·전극·자극조건·평가법이 달라 메타분석을 하지 않음. 2026년 새 연구까지 포함한 숫자가 아님."
+  ],
+  [
+    "E2",
+    "최신 말초신경 무작위시험",
+    "Osaki Y et al. Conditioning Electrical Stimulation for Patients with Moderate or Severe Carpal Tunnel Syndrome: Double Blinded Randomized Controlled Trial. Ann Neurol. 2026;99:1251–1262. DOI 10.1002/ana.78155.",
+    "https://onlinelibrary.wiley.com/doi/full/10.1002/ana.78155",
+    "OA 임상 본문·방법 확인. 64명 무작위배정, 수술7일 전 정중신경 주위 침전극으로1시간 자극, 가짜자극 대조, 12개월. MUNE 증가 62±71 대25±66. 손 조작성도 개선, 환자보고결과 미측정·표본 특성 제한. CMAP 군간 차이는 없음. 생분해장치 시험 아님."
+  ],
+  [
+    "E3",
+    "장기 말초신경 무작위시험",
+    "Power HA et al. Postsurgical Electrical Stimulation Enhances Recovery Following Surgery for Severe Cubital Tunnel Syndrome: A Double-Blind Randomized Controlled Trial. Neurosurgery. 2020. DOI 10.1093/neuros/nyz322.",
+    "https://pubmed.ncbi.nlm.nih.gov/31432080/",
+    "원논문 초록 확인. 31명, 자극20/대조11. 3년 MUNE 176±23 대88±11, 평균±표준오차, P<.05. 일부 종설의 전재 수치와 달라 원저 우선. MUNE는 기능적 운동단위 추정치로 전체 신경 수·완치율 아님."
+  ],
+  [
+    "E4",
+    "효과 차이가 없던 피부표면 자극시험",
+    "Mattos E et al. Effects of transcutaneous electrical stimulation on peripheral nerve regeneration after digital neurorrhaphy: A randomized clinical trial. F1000Research. 14:1222, v4, 2026-09-22. DOI 10.12688/f1000research.169801.4.",
+    "https://f1000research.com/articles/14-1222/v4",
+    "전문 v4 확인. 32명, 피부표면 1회 자극+재활 대 가짜자극+재활, 3개월. 군간 감각·관련증상 차이 미확인. 작은 연구이며 v4 심사 1 approved, 2 approved with reservations. 직접 신경전극 시험과 조건이 달라 전기자극 전체 무효로 해석하지 않음."
+  ],
+  [
+    "E5",
+    "척수손상 다기관 사람 연구",
+    "Moritz C et al. Non-invasive spinal cord electrical stimulation for arm and hand function in chronic tetraplegia: a safety and efficacy trial. Nature Medicine. 2024;30:1276–1283. DOI 10.1038/s41591-024-02940-9.",
+    "https://www.nature.com/articles/s41591-024-02940-9",
+    "논문 임상 요지와 FDA 심사자료 확인. 65명 등록, 60명 완료. 재활2개월→자극+재활2개월. 43/60(72%)가 두 영역 사전 기준 도달. 단일군·비눈가림·동시 대조군 없음. FDA 자료상 월별 평가는 자극 OFF 상태. 완치율·직접적 재생 증거 아님."
+  ],
+  [
+    "E6",
+    "미국 최초 시장허가 공식 근거",
+    "FDA. ARC-EX System. De Novo DEN240014. Decision date 2024-12-19.",
+    "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?id=DEN240014",
+    "공식 결정·심사자료 확인. 초기 적응증은 18–75세 만성 비진행성 불완전 C2–C8 손상의 손 감각·근력, 병원 기능과제훈련 병행. 심사자료 https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN240014.pdf 의 9쪽은 효능평가 시 자극 OFF 명시."
+  ],
+  [
+    "E7",
+    "미국 가정 사용 확대 공식 근거",
+    "FDA. ARC-EX System. 510(k) K251821. Decision letter 2025-11-14.",
+    "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251821.pdf",
+    "공식 PDF 4쪽 적응증 확인. 병원 기능과제훈련과 가정 운동 병행으로 사용범위 확대. 동일한 제한 환자군·손 감각과 근력 목적, 처방 사용. 이식·생분해 기기 허가나 국내 허가·급여 근거가 아님."
+  ],
+  [
+    "E8",
+    "척수 회로와 보행 연구",
+    "Kathe C et al. The neurons that restore walking after paralysis. Nature. 2022;611:540–547. DOI 10.1038/s41586-022-05385-7.",
+    "https://www.nature.com/articles/s41586-022-05385-7",
+    "임상 본문·방법 확인. 만성 손상 STIMO 9명, 5개월 주4–5회 자극 병행 재활. 자극 ON·보조기 조건 보행. 잔존기능 있던 4명은 OFF 보행. 일부는 2018 연구집단과 겹침. 신경세포 기전의 인과 검증은 생쥐 연구."
+  ],
+  [
+    "E9",
+    "뇌와 척수를 잇는 디지털 인터페이스",
+    "Lorach H et al. Walking naturally after spinal cord injury using a brain–spine interface. Nature. 2023;618:126–133. DOI 10.1038/s41586-023-06094-5.",
+    "https://www.nature.com/articles/s41586-023-06094-5",
+    "대상자·기기·임상 본문 확인. 불완전 경수손상 1명, 이전 자극·재활 경험자. 뇌 운동의도를 척수자극으로 연결, 보조기 이용 보행·계단 개선. 장치 OFF 목발 보행도 개선. 디지털 우회와 생물학적 축삭 재생을 구분."
+  ],
+  [
+    "E10",
+    "생분해 무선자극의 최근 동물연구",
+    "Ahn HY et al. Bioresorbable, wireless dual stimulator for peripheral nerve regeneration. Nature Communications. 2025;16:4752. DOI 10.1038/s41467-025-59835-7.",
+    "https://www.nature.com/articles/s41467-025-59835-7",
+    "OA 본문·방법 확인. 쥐 근위·원위 자극, 장기 작동 평가와 하루1시간×6일 치료효과 실험 구분. 고정 입력 조건에서 수개월 작동 가능성을 평가한 연구. 사람 임상 보고 아님. AFM 제조기술과 기간 수치의 직접 우열비교는 부적절."
+  ],
+  [
+    "E11",
+    "전기자극 기전 종설",
+    "Balbinot G et al. The mechanisms of electrical neuromodulation. The Journal of Physiology. 2025;603:247–284. DOI 10.1113/JP286205.",
+    "https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP286205",
+    "OA 본문 관련 절 확인. 전기장과 신경 흥분성·회로·활동 의존 가소성을 설명하는 Topical Review. 질환·세포·자극별 효과는 구분. 이번 장치의 중추신경 임상효과를 증명하는 문헌이 아님."
+  ],
+  [
+    "E12",
+    "최신 맞춤 신경조절 종설",
+    "Balachandar A et al. Neuromodulation for gait disorders. Nature Reviews Bioengineering. 2026;4:636–652. DOI 10.1038/s44222-026-00431-9.",
+    "https://www.nature.com/articles/s44222-026-00431-9",
+    "출판사 초록·Key points 확인, 구독 전문 미열람. 공간·시간을 맞춘 자극, 잔존 회로, 피드백 기반 조절의 전망. 모든 보행장애나 생분해장치에 임상효과가 확립됐다는 뜻이 아님."
+  ],
+  [
+    "E13",
+    "재생과 가소성의 임상번역 종설",
+    "Hutson TH, Di Giovanni S. The translational landscape in spinal cord injury: focus on neuroplasticity and regeneration. Nature Reviews Neurology. 2019;15:732–745. DOI 10.1038/s41582-019-0280-3.",
+    "https://www.nature.com/articles/s41582-019-0280-3",
+    "출판사 초록·Key points 확인, 전문 접근 제한. 생물학적 재생·신경조절·재활의 결합과 번역 과제. 역사적 개념 근거이며 2026 현황과 허가를 이 문헌만으로 설명하지 않음."
+  ],
+  [
+    "E14",
+    "척수 재생 전임상 근거 범위",
+    "Regeneration and remyelination promoting effects of spinal cord stimulation following spinal cord injury: A scoping review. Experimental Neurology. 2026;396:115519. DOI 10.1016/j.expneurol.2025.115519.",
+    "https://doi.org/10.1016/j.expneurol.2025.115519",
+    "출판사 초록 확인. 1946–2024년 전임상 21연구. 축삭·수초 관련 개선 보고를 종합하지만 표준화·자율신경 기능평가·병용치료 자료 부족 지적. 사람 척수 축삭 재생을 입증한 메타분석이 아님."
+  ]
+]

@@ -1,0 +1,284 @@
+신경 전자약의 현재 수준과 미래 전망
+
+코메디닷컴 인터뷰 보충 설명  |  근거 검토 v1.2  |  2026년 10월 25일
+
+전기자극의 사람 임상근거는 일부 질환에서 축적되고 있고, 특정 비침습 척수자극기는 미국 시장허가 단계에 도달했습니다. 반면 이번 AFM 생분해 이식 장치의 환자 효과는 아직 별도 검증이 필요합니다. 미래 기대는 이 두 사실을 연결해 설명할 수 있습니다.
+
+현재 어디까지 왔는가
+
+
+
+인터뷰에 덧붙일 설명
+
+“기대할 만한 이유는 실제 환자 연구에서 감각과 운동 기능이 더 좋아질 수 있다는 결과가 나오고 있기 때문입니다. 지금의 과제는 그 가능성을 어떤 환자에게 어떤 자극으로 가장 안전하게 제공할 것인가입니다. 저희 연구는 몸의 구조에 맞게 만들고, 필요한 기간 뒤에는 흡수되도록 하는 기기 기술을 그 치료 흐름에 연결하려는 시도입니다.”
+
+자료의 성격  E1–E14는 이번에 보강한 자료입니다. R1–R17은 이번 논문과 기존 연구를, E1–E14는 추가한 임상·종설·허가 자료를 가리킵니다. 모두 뒤의 참고자료에 실었습니다. 종설은 원리와 전망을, 임상 원저는 효과 수치를, 규제기관 문서는 허가 범위를 설명하는 데 사용합니다.
+
+말초신경에서 사람에게 확인된 효과
+
+서로 다른 질환·자극·검사를 한 연구이므로 숫자를 합쳐 평균 완치율을 만들 수 없습니다. 압박성 신경병증과 절단 후 봉합은 같은 손상이 아닙니다. [E1]
+
+
+
+E4의 최신 v4는 1명 승인, 2명 유보부 승인으로 표시된 공개 동료심사 논문입니다. 음성 결과를 포함하되 이 한계도 함께 고려해야 합니다.
+
+숫자를 쉬운 말로 옮기면
+
+“사람에서도 수술 후 신경이 근육을 다시 지배하는 과정이나 감각검사가 더 좋아진 연구가 있습니다. 그러나 신경검사 수치의 개선이 곧 환자의 생활 기능이 그만큼 좋아진다는 뜻은 아닙니다. 효과가 없는 조건도 보고되므로 자극 위치와 방법, 환자 선택을 더 정밀하게 해야 합니다.”
+
+생분해 장치와의 관계  위 네 연구는 이번 AFM 생분해 무선기기의 환자 임상시험이 아닙니다. 치료원리의 근거와 개별 제품의 안전성·유효성은 연결되지만 각각 검증해야 합니다.
+
+척수손상의 기능회복과 재생을 구분하기
+
+
+
+재생과 가소성의 차이
+
+재생은 손상된 신경섬유가 다시 자라는 생물학적 변화입니다. 가소성은 남아 있는 신경회로의 연결과 사용 방식이 달라지는 변화입니다. 자극은 즉시 회로의 반응성을 높일 수도 있고, 훈련과 반복되며 더 오래가는 변화를 유도할 수도 있습니다. 기능이 좋아졌다는 관찰만으로 어느 과정이 얼마나 기여했는지를 모두 확정할 수는 없습니다. [E11·E13]
+
+전임상 척수자극 연구 21개를 종합한 2026년 범위 문헌고찰은 축삭·수초 관련 가능성을 정리했습니다. 이 역시 동물 근거이며, 사람 척수 재생의 임상적 확증과 구분해야 합니다. [E14]
+
+미국 허가 사례가 보여주는 가능성과 범위
+
+이미 달성한 단계
+
+미국 FDA는 ARC-EX에 2024년 12월 19일 De Novo 시장허가를 부여했습니다. 2025년 11월 14일 510(k) K251821에서는 병원 기능과제훈련뿐 아니라 가정 운동과 병행하는 사용까지 범위가 확대됐습니다. 따라서 2026년 현재 “척수 전기자극은 전부 동물실험뿐” 또는 “이 기기는 병원에서만 허가됐다”고 설명하면 부정확합니다. [E6·E7]
+
+
+
+인터뷰용 설명
+
+“해외에서 이미 허가된 사례가 있다는 것은 전기자극과 재활의 결합이 실제 치료로 이어질 수 있음을 보여줍니다. 다만 허가는 질환 이름 전체에 주는 것이 아니라, 정해진 환자와 목적, 사용방법에 맞춰 이뤄집니다. 저희 생분해 장치 역시 그 장치만의 검증을 거쳐야 합니다.”
+
+지금 환자에게 필요한 안내
+
+말초신경은 손상 정도에 맞는 관찰·감압·봉합·재건과 재활을, 척수손상은 상태에 맞는 전문 치료·재활·합병증 관리를 이어가는 것이 중요합니다. 새로운 기기의 해외 허가를 근거로 국내에서 바로 처방·구매할 수 있다고 안내하지 않습니다. 구체적 국내 도입 여부는 별도 확인이 필요합니다. [R6·R8, E6·E7]
+
+기대할 수 있는 발전과 확인해야 할 조건
+
+기대에 근거가 있는 세 가지 이유
+
+첫째, 일부 사람 연구에서 자극과 재활의 결합이 기능을 높일 가능성이 확인됐습니다. 둘째, 회로의 반응성과 활동에 따른 가소성에 관한 지식이 축적되고 있습니다. 셋째, 자극을 언제 어디에 전달할지 조절하고 몸의 구조에 맞춰 제작하는 기술이 발전하고 있습니다. 이들을 연결하는 것이 전망의 근거이며, 각각의 성과를 합쳤다고 임상효과가 자동으로 성립하는 것은 아닙니다. [E2·E5·E11·E12]
+
+이번 연구가 더하는 부분
+
+무선 생분해 신경자극은 2018년 Nature Medicine 연구에 이미 등장했습니다. 2025년에는 두 부위 자극과 수개월 작동을 평가한 동물연구도 나왔습니다. 이번 AFM 연구는 이런 흐름에서 생분해 도체·반도체·절연체와 입체 구조를 함께 프린팅하는 제조 기반을 넓혔습니다. 서로 다른 조건의 기기를 단순 비교해 임상효과나 작동기간의 우월성을 주장할 수는 없습니다. [R1·R17, E10]
+
+
+
+가까운 목표는 임상시험용 제품과 안전성 자료를 갖추는 일이고, 임상시험에서는 기존 치료에 더한 이득을 검증해야 합니다. 장기적인 폐쇄루프·재생환경·재활 통합은 연구 방향입니다. 이를 특정 상용화 연도나 확정된 효과로 바꾸어 말하지 않습니다.
+
+제도와 지원을 구체적으로 설명하는 방법
+
+지원 필요성은 “새 기술이므로 빨리 허용해 달라”보다, 논문 성과를 임상시험용 기기로 옮길 때 어떤 공백이 있는지로 설명하는 편이 객관적입니다. 아래는 확인한 평가 원칙과 연구 단계에서 도출한 제안입니다. 특정 정부사업 선정이나 개별 시험계획의 확정 사실은 아닙니다.
+
+
+
+국가에는 이미 의료기기 제품개발·임상·평가기술을 연결하는 지원 틀이 있습니다. 범부처 첨단 의료기기 연구개발사업 2026–2032가 그 예입니다. 이 틀이 개별 연구의 임상번역 공백을 어떻게 메우는지 설명하되, 본 연구팀이 해당 사업 지원을 확정받았다는 뜻으로 사용하지 않습니다. [R15]
+
+현재 교수님의 중추신경 재생·가소성 연구는 이런 통합 접근의 방향과 맞닿아 있습니다. 다만 이는 교수님이 제공한 진행 중 연구 설명이며, 외부 임상 사례들이 그 미발표 결과를 직접 검증한 것은 아닙니다.
+
+추가 참고자료와 확인 범위 하나
+
+E1 사람 임상 체계적 고찰
+
+Costello MC et al. Clinical applications of electrical stimulation for peripheral nerve injury: a systematic review. Front Neurosci. 2023;17:1162851.
+
+https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1162851/full
+
+전문 확인. 2022년 8월까지 검색, 7연구·229명·RCT 6개. 상지·쇄골위 중심. 질환·전극·자극조건·평가법이 달라 메타분석을 하지 않음. 2026년 새 연구까지 포함한 숫자가 아님.
+
+E2 최신 말초신경 무작위시험
+
+Osaki Y et al. Conditioning Electrical Stimulation for Patients with Moderate or Severe Carpal Tunnel Syndrome: Double Blinded Randomized Controlled Trial. Ann Neurol. 2026;99:1251–1262. DOI 10.1002/ana.78155.
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/ana.78155
+
+OA 임상 본문·방법 확인. 64명 무작위배정, 수술7일 전 정중신경 주위 침전극으로1시간 자극, 가짜자극 대조, 12개월. MUNE 증가 62±71 대25±66. 손 조작성도 개선, 환자보고결과 미측정·표본 특성 제한. CMAP 군간 차이는 없음. 생분해장치 시험 아님.
+
+E3 장기 말초신경 무작위시험
+
+Power HA et al. Postsurgical Electrical Stimulation Enhances Recovery Following Surgery for Severe Cubital Tunnel Syndrome: A Double-Blind Randomized Controlled Trial. Neurosurgery. 2020. DOI 10.1093/neuros/nyz322.
+
+https://pubmed.ncbi.nlm.nih.gov/31432080/
+
+원논문 초록 확인. 31명, 자극20/대조11. 3년 MUNE 176±23 대88±11, 평균±표준오차, P<.05. 일부 종설의 전재 수치와 달라 원저 우선. MUNE는 기능적 운동단위 추정치로 전체 신경 수·완치율 아님.
+
+E4 효과 차이가 없던 피부표면 자극시험
+
+Mattos E et al. Effects of transcutaneous electrical stimulation on peripheral nerve regeneration after digital neurorrhaphy: A randomized clinical trial. F1000Research. 14:1222, v4, 2026-09-22. DOI 10.12688/f1000research.169801.4.
+
+https://f1000research.com/articles/14-1222/v4
+
+전문 v4 확인. 32명, 피부표면 1회 자극+재활 대 가짜자극+재활, 3개월. 군간 감각·관련증상 차이 미확인. 작은 연구이며 v4 심사 1 approved, 2 approved with reservations. 직접 신경전극 시험과 조건이 달라 전기자극 전체 무효로 해석하지 않음.
+
+추가 참고자료와 확인 범위 둘
+
+E5 척수손상 다기관 사람 연구
+
+Moritz C et al. Non-invasive spinal cord electrical stimulation for arm and hand function in chronic tetraplegia: a safety and efficacy trial. Nature Medicine. 2024;30:1276–1283. DOI 10.1038/s41591-024-02940-9.
+
+https://www.nature.com/articles/s41591-024-02940-9
+
+논문 임상 요지와 FDA 심사자료 확인. 65명 등록, 60명 완료. 재활2개월→자극+재활2개월. 43/60(72%)가 두 영역 사전 기준 도달. 단일군·비눈가림·동시 대조군 없음. FDA 자료상 월별 평가는 자극 OFF 상태. 완치율·직접적 재생 증거 아님.
+
+E6 미국 최초 시장허가 공식 근거
+
+FDA. ARC-EX System. De Novo DEN240014. Decision date 2024-12-19.
+
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?id=DEN240014
+
+공식 결정·심사자료 확인. 초기 적응증은 18–75세 만성 비진행성 불완전 C2–C8 손상의 손 감각·근력, 병원 기능과제훈련 병행. 심사자료 https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN240014.pdf 의 9쪽은 효능평가 시 자극 OFF 명시.
+
+E7 미국 가정 사용 확대 공식 근거
+
+FDA. ARC-EX System. 510(k) K251821. Decision letter 2025-11-14.
+
+https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251821.pdf
+
+공식 PDF 4쪽 적응증 확인. 병원 기능과제훈련과 가정 운동 병행으로 사용범위 확대. 동일한 제한 환자군·손 감각과 근력 목적, 처방 사용. 이식·생분해 기기 허가나 국내 허가·급여 근거가 아님.
+
+E8 척수 회로와 보행 연구
+
+Kathe C et al. The neurons that restore walking after paralysis. Nature. 2022;611:540–547. DOI 10.1038/s41586-022-05385-7.
+
+https://www.nature.com/articles/s41586-022-05385-7
+
+임상 본문·방법 확인. 만성 손상 STIMO 9명, 5개월 주4–5회 자극 병행 재활. 자극 ON·보조기 조건 보행. 잔존기능 있던 4명은 OFF 보행. 일부는 2018 연구집단과 겹침. 신경세포 기전의 인과 검증은 생쥐 연구.
+
+추가 참고자료와 확인 범위 셋
+
+E9 뇌와 척수를 잇는 디지털 인터페이스
+
+Lorach H et al. Walking naturally after spinal cord injury using a brain–spine interface. Nature. 2023;618:126–133. DOI 10.1038/s41586-023-06094-5.
+
+https://www.nature.com/articles/s41586-023-06094-5
+
+대상자·기기·임상 본문 확인. 불완전 경수손상 1명, 이전 자극·재활 경험자. 뇌 운동의도를 척수자극으로 연결, 보조기 이용 보행·계단 개선. 장치 OFF 목발 보행도 개선. 디지털 우회와 생물학적 축삭 재생을 구분.
+
+E10 생분해 무선자극의 최근 동물연구
+
+Ahn HY et al. Bioresorbable, wireless dual stimulator for peripheral nerve regeneration. Nature Communications. 2025;16:4752. DOI 10.1038/s41467-025-59835-7.
+
+https://www.nature.com/articles/s41467-025-59835-7
+
+OA 본문·방법 확인. 쥐 근위·원위 자극, 장기 작동 평가와 하루1시간×6일 치료효과 실험 구분. 고정 입력 조건에서 수개월 작동 가능성을 평가한 연구. 사람 임상 보고 아님. AFM 제조기술과 기간 수치의 직접 우열비교는 부적절.
+
+E11 전기자극 기전 종설
+
+Balbinot G et al. The mechanisms of electrical neuromodulation. The Journal of Physiology. 2025;603:247–284. DOI 10.1113/JP286205.
+
+https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP286205
+
+OA 본문 관련 절 확인. 전기장과 신경 흥분성·회로·활동 의존 가소성을 설명하는 Topical Review. 질환·세포·자극별 효과는 구분. 이번 장치의 중추신경 임상효과를 증명하는 문헌이 아님.
+
+E12 최신 맞춤 신경조절 종설
+
+Balachandar A et al. Neuromodulation for gait disorders. Nature Reviews Bioengineering. 2026;4:636–652. DOI 10.1038/s44222-026-00431-9.
+
+https://www.nature.com/articles/s44222-026-00431-9
+
+출판사 초록·Key points 확인, 구독 전문 미열람. 공간·시간을 맞춘 자극, 잔존 회로, 피드백 기반 조절의 전망. 모든 보행장애나 생분해장치에 임상효과가 확립됐다는 뜻이 아님.
+
+추가 참고자료와 확인 범위 넷
+
+E13 재생과 가소성의 임상번역 종설
+
+Hutson TH, Di Giovanni S. The translational landscape in spinal cord injury: focus on neuroplasticity and regeneration. Nature Reviews Neurology. 2019;15:732–745. DOI 10.1038/s41582-019-0280-3.
+
+https://www.nature.com/articles/s41582-019-0280-3
+
+출판사 초록·Key points 확인, 전문 접근 제한. 생물학적 재생·신경조절·재활의 결합과 번역 과제. 역사적 개념 근거이며 2026 현황과 허가를 이 문헌만으로 설명하지 않음.
+
+E14 척수 재생 전임상 근거 범위
+
+Regeneration and remyelination promoting effects of spinal cord stimulation following spinal cord injury: A scoping review. Experimental Neurology. 2026;396:115519. DOI 10.1016/j.expneurol.2025.115519.
+
+https://doi.org/10.1016/j.expneurol.2025.115519
+
+출판사 초록 확인. 1946–2024년 전임상 21연구. 축삭·수초 관련 개선 보고를 종합하지만 표준화·자율신경 기능평가·병용치료 자료 부족 지적. 사람 척수 축삭 재생을 입증한 메타분석이 아님.
+
+기존 핵심 자료와 연결
+
+R1  Lee JY et al. Materials and Design Strategies of Fully 3D Printed Biodegradable Wireless Devices for Biomedical Applications. Advanced Functional Materials. 2026; e78432. DOI 10.1002/adfm.78432.  https://doi.org/10.1002/adfm.78432
+
+R2  adfm78432-sup-0001-SuppMat.docx. Figures S29–S32, S36–S38, Note S3.  https://doi.org/10.1002/adfm.78432
+
+R3  Zhang Y et al. Advances in Bioresorbable Materials and Electronics. Chemical Reviews. 2023;123:11722–11773. DOI 10.1021/acs.chemrev.3c00408.  https://doi.org/10.1021/acs.chemrev.3c00408
+
+R4  Feiner R, Dvir T. Tissue–electronics interfaces: from implantable devices to engineered tissues. Nature Reviews Materials. 2018;3:17076. 온라인 2017. DOI 10.1038/natrevmats.2017.76.  https://doi.org/10.1038/natrevmats.2017.76
+
+R5  Pan et al. Dynamic biophysical coupling in bioelectronic interfaces for peripheral nerve modulation. Nature Reviews Electrical Engineering. 2026;3:450–464. DOI 10.1038/s44287-026-00301-x.  https://doi.org/10.1038/s44287-026-00301-x
+
+R6  Smith SM et al. Electrical Modalities in the Rehabilitation of Peripheral Nerve Injuries: State of the Literature and Current Clinical Applications. Muscle & Nerve. 온라인 2026-07-02. DOI 10.1002/mus.70306.  https://pubmed.ncbi.nlm.nih.gov/42394298/
+
+R7  Wong JN et al. Electrical stimulation enhances sensory recovery: a randomized controlled trial. Annals of Neurology. 2015;77:996–1006. DOI 10.1002/ana.24397.  https://doi.org/10.1002/ana.24397
+
+R8  Harhaus et al. The Treatment of Peripheral Nerve Injuries. Deutsches Ärzteblatt International. 2024.  https://pmc.ncbi.nlm.nih.gov/articles/PMC11542565/
+
+R9  Kim et al. Electroceuticals for Regeneration of Long Nerve Gap Using Biodegradable Conductive Conduits and Implantable Wireless Stimulator. Advanced Science. 2023;2302632. DOI 10.1002/advs.202302632.  https://pmc.ncbi.nlm.nih.gov/articles/PMC10460856/
+
+R10  Kim et al. Functional Recovery of Contused Spinal Cord in Rat with the Injection of Optimal-Dosed Cerium Oxide Nanoparticles. Advanced Science. 2017. DOI 10.1002/advs.201700034.  https://pubmed.ncbi.nlm.nih.gov/29051850/
+
+R11  Davaa et al. Exercise Ameliorates Spinal Cord Injury by Changing DNA Methylation. Cells. 2021;10:143. DOI 10.3390/cells10010143.  https://pmc.ncbi.nlm.nih.gov/articles/PMC7828206/
+
+R12  Davaa et al. Delivery of Induced Neural Stem Cells Through Mechano-Tuned Silk-Collagen Hydrogels for the Recovery of Contused Spinal Cord in Rats. Advanced Healthcare Materials. 2023;2201720. 온라인 2022. DOI 10.1002/adhm.202201720.  https://pubmed.ncbi.nlm.nih.gov/36447307/
+
+R13  Bae et al. A biodegradable and self-deployable electronic tent electrode for brain cortex interfacing. Nature Electronics. 2024. DOI 10.1038/s41928-024-01216-x.  https://doi.org/10.1038/s41928-024-01216-x
+
+R14  아주대학교병원. 2026 Purdue–Korea Joint R&D Seminar 관련 발표. 2026-08-03.  https://hosp.ajoumc.or.kr/board/commBoardNewsView.do?no=72245
+
+R15  범부처의료기기연구개발사업단. 범부처 첨단 의료기기 연구개발사업 2026–2032 사업개요.  https://www.kmdf.org/summary_2026
+
+R16  FDA. PMA Special Considerations. Biocompatibility.  https://www.fda.gov/medical-devices/premarket-approval-pma/pma-special-considerations
+
+R17  Koo et al. Wireless bioresorbable electronic system enables sustained nonpharmacological neuroregenerative therapy. Nature Medicine. 2018;24:1830–1836. DOI 10.1038/s41591-018-0196-2.  https://doi.org/10.1038/s41591-018-0196-2
+
+이번 보충은 선택한 핵심 연구의 비교이며, 모든 임상시험을 새로 검색·선별한 체계적 고찰은 아닙니다. 현재 치료와 허가는 2026년 10월 25일 확인 범위로 설명합니다.
+
+비교 대상 | 확인된 수준 | 이 자료로 말할 수 없는 것
+말초신경 직접자극 | 특정 신경 수술과 병행한 소규모 무작위시험에서 감각·재지배·일부 기능 지표 개선 [R7, E2·E3] | 모든 신경손상·모든 자극 방식의 공통 효과
+척수자극과 재활 | 사람 연구에서 손·팔 또는 보조기 이용 보행의 개선 [E5, E8·E9] | 끊어진 사람 척수의 재생 또는 모든 마비의 완치
+미국 비침습 기기 | ARC-EX의 제한 적응증 허가와 가정 운동 병행 범위 확대 [E6·E7] | 한국 허가·급여 또는 생분해 이식 장치의 허가
+이번 AFM 장치 | 생분해 전자부품의 3D 프린팅 통합, 동물 작동과 일부 회복 지표 [R1·R2] | 사람에서의 안전성·추가 치료효과·출시 연도
+
+연구와 대상 | 설계와 추적 | 확인된 결과와 한계
+2015 손가락신경
+36명 모집 [R7] | 봉합 후 직접 신경전극 자극 대 가짜자극
+6개월 | 감각검사 개선. DASH 일상 기능 점수의 유의한 추가 개선은 미확인.
+2020 중증 주관증후군
+31명 [E3] | 감압수술 후 자극 대 가짜자극
+3년 | MUNE 176±23 대88±11, 평균±표준오차. 기능적 운동단위 추정치이며 신경 수·완치율 아님.
+2026 손목터널증후군
+64명 [E2] | 수술7일 전 신경주위 침전극 자극 대 가짜자극
+12개월 | MUNE 증가 62±71 대25±66. 손 조작성 개선. CMAP 군간 차이 없음, 환자보고결과 미측정.
+2026 피부표면 자극
+손가락신경 32명 [E4] | 봉합 후 표면 자극 1회+재활 대 가짜자극+재활
+3개월 | 감각·관련증상 군간 차이 미확인. 직접 신경전극 방식과 조건이 달라 앞선 결과와 단순 상쇄할 수 없음.
+
+사람 연구 | 실제로 관찰한 것 | 설명할 때 붙일 조건
+Nature 2022
+만성 척수손상 9명 [E8] | 5개월 자극 병행 재활 후 자극 ON·보조기 조건 보행. 기존 잔존기능이 있던 4명은 자극 OFF 보행. | 소규모, 강도 높은 재활 병행. 이전 2018 연구와 일부 중복. 신경세포의 인과 기전은 생쥐 실험.
+Nature 2023
+뇌–척수 인터페이스 1명 [E9] | 운동 의도를 읽어 척수자극으로 연결. 보조기를 이용한 보행·계단 개선, 훈련 뒤 OFF 목발 보행도 개선. | 이전 자극·재활 경험이 있는 불완전 손상 1명. 디지털 우회가 생물학적 척수 재생을 뜻하지 않음.
+Nature Medicine 2024
+65명 등록·60명 완료 [E5] | 완료자 43/60, 약72%가 근력과 기능 두 영역의 사전 기준 충족. 월별 평가는 자극 OFF. | 재활2개월 뒤 자극+재활2개월인 단일군 순차 연구. 무작위·동시 대조군 없음. 72% 완치가 아님.
+
+구분 | 공식 문서에서 확인되는 범위
+대상 | 18–75세, 만성·비진행성 신경학적 결손이 있는 불완전 C2–C8 척수손상
+목적 | 손 감각과 근력 개선
+방법 | 피부를 통한 척수자극, 병원 기능과제훈련 또는 가정 운동과 병행하는 처방 기기
+구분할 사실 | 이번 생분해 이식 전자약의 허가가 아니며, 완전 척수손상의 완치·한국의 허가와 급여를 뜻하지 않음
+
+발전 방향 | 환자에게 기대하는 이득 | 다음에 확인할 것
+몸에 맞춘 제작 | 신경의 모양·수술 공간에 맞는 배치 | 신경 압박·움직임·전극 접촉, 제작 재현성
+필요 기간 뒤 흡수 | 회수수술과 장기 잔류물 부담 감소 가능성 | 필요 작동기간, 실제 체내 흡수기간과 분해산물
+개인별 자극과 재활 | 적절한 시점·부위에서 회복 훈련 지원 | 자극량·훈련 조건·대조군 비교와 효과 지속성
+재생 환경과 결합 | 재생과 남은 회로의 기능 향상을 함께 연구 | 동물에서의 기전과 사람에서의 생활 기능을 각각 검증
+
+공백 | 필요한 지원 | 진척을 확인할 기준
+작동과 분해를 함께 평가 | 분해산물·노출기간·전기성능을 반영한 평가법과 규제 상담 | 어떤 환경·기간까지 안전하고 일정하게 작동하는지 자료화
+실험실 제작에서 제품 제조로 | 제조·멸균·포장·보관 안정성 검증과 품질체계 전문인력 | 여러 생산분이 같은 성능·분해특성을 보이는지
+동물에서 사람으로 | 적절한 대동물·초기 임상, 공학·임상·기업의 연속 협력 | 사람의 신경 크기·조직 깊이·움직임 조건에 맞춘 검증
+검사 개선에서 생활 기능으로 | 비교군을 둔 임상시험과 장기 추적, 환자 중심 평가 | 감각·근력뿐 아니라 실제 수행 기능과 추가 치료 부담
+허가 이후 접근성 | 국내 적용 경로·비용효과·이용 환경을 검토하는 지원 | 안전성과 유효성 근거에 맞춘 이용 범위와 비용 평가
