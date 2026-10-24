@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-25",
+  "version": "v1.2",
+  "localFolder": "C:/Users/rhhyu/내 드라이브/20_Hyun/언론인터뷰/261026 코메디닷컴/결과물_v1.2",
+  "github": "https://github.com/rhhyun/hyun-media-interviews/tree/main/kormedi-2026-10-26/v1.2",
+  "contentCommit": "9a835b6a7f3c8aecf8b348c07327d971c157cede",
+  "remoteMainAtContentCheck": "9a835b6a7f3c8aecf8b348c07327d971c157cede",
+  "docxBlobExact": true,
+  "textGitLineEndingsNormalized": [
+    {
+      "name": "코메디닷컴_인터뷰_답변_v1.2.txt",
+      "equal": true
+    },
+    {
+      "name": "코메디닷컴_현재수준과_미래전망_근거보충_v1.2.txt",
+      "equal": true
+    }
+  ],
+  "localManifestVerified": true,
+  "visualReview": {
+    "answerPages": 7,
+    "evidencePages": 11,
+    "reviewedPages": 18
+  },
+  "driveFolder": "https://drive.google.com/drive/folders/1yQ7OgdjSiOFDCOLSJIY3P5ccZRza9Bl5",
+  "driveFiles": [
+    {
+      "id": "1Hs2rWv4px4kfW29rTVpFeLmkk9jLukY1",
+      "name": "추가근거.json",
+      "size": "8111"
+    },
+    {
+      "id": "1G16s8nacbPi_5yJ6gEX3hkId5cW_sDSt",
+      "name": "파일검증.json",
+      "size": "882"
+    },
+    {
+      "id": "1SOnhN_OQKvW3sMrcmcSBTmlhIO489MYE",
+      "name": "코메디닷컴_현재수준과_미래전망_근거보충_v1.2.txt",
+      "size": "23721"
+    },
+    {
+      "id": "1VEGabCFYh-i-4SPDqubwNnh6VSqtdmg-",
+      "name": "코메디닷컴_인터뷰_답변_v1.2.txt",
+      "size": "16558"
+    },
+    {
+      "id": "1G0DrnWjmZt6FXpHPkcwOElmbYGu6lCUG",
+      "name": "코메디닷컴_현재수준과_미래전망_근거보충_v1.2.docx",
+      "size": "50033"
+    },
+    {
+      "id": "1jMC9Ztnu_NJBRa43nCdo-ypWpny8NGcd",
+      "name": "코메디닷컴_인터뷰_답변_v1.2.docx",
+      "size": "43925"
+    },
+    {
+      "id": "15_NUfWwivJCTbRAcj8WCc_JCYvr3A6xf",
+      "name": "backup.md",
+      "size": "6642"
+    },
+    {
+      "id": "1cGCX69vlsLaue6wJb2ZD8uhHK99ICEyQ",
+      "name": "검증결과.txt",
+      "size": "1428"
+    }
+  ],
+  "driveVerification": "8 files listed; both text contents fetched and latest clinical phrasing read back; DOCX sizes match local. No claim of cloud binary checksum verification.",
+  "limits": "Some reviews verified from abstract/key points only, documented individually. Current CNS research attributed to professor; no unpublished numerical claims or launch year invented.",
+  "handoff": "backup.md"
+}
