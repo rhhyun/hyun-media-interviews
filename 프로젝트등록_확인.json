@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-25",
+  "project": "언론 인터뷰",
+  "projectId": "b3f7c7db-49db-4dad-b1cb-2224e706c894",
+  "type": "local",
+  "folder": "C:/Users/rhhyu/내 드라이브/20_Hyun/언론인터뷰",
+  "pinnedVerified": true,
+  "threadId": "01a16d7b-e342-7732-ba45-0d413cc14068",
+  "threadMove": "tool returned success, subsequent list still reports projectId null; association not verified",
+  "otherPC": "No other computer is connected for registration or verification. Open downloaded/cloned folder as a local project on that PC.",
+  "github": "https://github.com/rhhyun/hyun-media-interviews",
+  "drive": "https://drive.google.com/drive/folders/1yQ7OgdjSiOFDCOLSJIY3P5ccZRza9Bl5",
+  "next": "On other PC open Codex Add project, select synced 언론인터뷰 folder or cloned hyun-media-interviews; read backup.md. This does not migrate existing conversation."
+}
